@@ -2,9 +2,9 @@ package ru.orlovvv;
 
 public class Circle extends Shape {
 
-    private int r;
+    private double r;
 
-    public Circle(int r) {
+    public Circle(double r) {
         this.r = r;
     }
 

@@ -2,9 +2,9 @@ package ru.orlovvv;
 
 public class Square extends Shape{
 
-    private int a;
+    private double a;
 
-    public Square(int a) {
+    public Square(double a) {
         this.a = a;
     }
 
